@@ -1,0 +1,7 @@
+*.zip
+.Ds_Store
+.env
+/logs
+src/*
+!src/yahoofinance.php
+/Dockerfile.sample
